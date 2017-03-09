@@ -1,0 +1,1 @@
+javah -o TimeClickersBot.h -classpath D:\workspace_scala\ScalaTimeClickers\target\scala-2.11\classes com.elliot.clicker.jni.JNIAdapter

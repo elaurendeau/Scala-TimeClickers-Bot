@@ -1,0 +1,4 @@
+﻿  ClickBotWin32DLL.vcxproj -> D:\workspace_scala\ScalaTimeClickers\c++\ClickBotWin32DLL\x64\Release\ClickBotWin32DLL.dll
+  The system cannot find the file specified.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "copy D:\workspace_scala\ScalaTimeClickers\c++\ClickBotWin32DLL\x64\Release\ClickBotWin32DLL.dll D:\workspace_scala\ScalaTimeClickers\ClickBotWin32DLL.dll
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 1.

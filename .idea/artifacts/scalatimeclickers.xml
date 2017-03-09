@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="scalatimeclickers">
+    <output-path>$PROJECT_DIR$/out/artifacts/scalatimeclickers</output-path>
+    <root id="root">
+      <element id="archive" name="scalatimeclickers.jar">
+        <element id="module-output" name="scalatimeclickers" />
+      </element>
+    </root>
+  </artifact>
+</component>
